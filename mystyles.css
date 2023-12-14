@@ -1,0 +1,65 @@
+body{
+    background-image: url(https://storage.googleapis.com/pai-images/f1735da43cb54577b3198317c3c3c6ff.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tableauPlaceholder {
+    width: 100%; /* This ensures the div takes full width of its parent */
+    max-width: 1200px; /* Adjust this to your desired maximum width */
+    margin: 0 auto; /* This centers the div horizontally */
+    position: relative; /* Adjust if needed, but usually relative or static works */
+}
+
+ol{
+    background-color:rgb(190, 218, 218);
+    color:azure;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+
+
+}
+h1{
+    background-color: rgb(197, 167, 122);
+    color: azure;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.img-center{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+.header{
+    position: absolute;
+    top: 0px;
+    display: block;
+    margin: auto;
+
+}
+.footer{
+    display: block;
+    margin: auto;
+    position: fixed;
+    bottom: 0px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(197, 167, 122);
+
+}
+.mainstuff{
+    position: absolute;
+    display: block;
+    background-color: rgb(197, 167, 122);
+    color:azure;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.video-container {
+    text-align: center; /* Centers the content */
+    width: 100%; /* Takes the full width of the container */
+    max-width: 560px; /* Maximum width of the video */
+    margin: 0 auto; /* Auto margins for left and right */
+}
+.lookinfancy{
+    color: beige;
+}
+a:visited{
+    color: azure;
+}
